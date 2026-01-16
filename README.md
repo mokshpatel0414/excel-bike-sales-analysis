@@ -61,8 +61,3 @@ Specifically, this analysis explores how income level, age group, commute distan
 ![Bike Sales Dashboard](images/dashboard_preview.png)
 
 ---
-
-## Conclusion
-This project demonstrates the ability to clean, analyze, and visualize data using Excel while translating raw data into meaningful business insights. It reflects a typical end-to-end workflow expected of a junior data analyst.
-
-This project was completed as part of a self-directed data analytics portfolio.
